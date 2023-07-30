@@ -5,7 +5,7 @@ Below are something about me, my experience, my education, my achievement, and m
 📆 2023.2 - 2023.8  
 💼 Meltwater - Technical Support (Contractor)  
 
-· Monitor the hot words and public opinions of cooperative brands in social media daily, modify the query and retrieval conditions according to the actual situation or customer needs when there is an abnormality, and feedback to the responsible managers of different bands.  
+· Monitor the popular words and public opinions of cooperative brands in social media daily, modify the query and retrieval conditions according to the actual situation or customer needs when there is an abnormality, and feedback to the responsible managers of different bands.  
 
 · Write scripts to regularly capture the content of social media accounts designated by the partner brands every week and month, investigate and retrieve missing posts and content from various social media platforms, including Weibo, TikTok, Little Red Book, Facebook, Twitter, Instagram, etc.
 
