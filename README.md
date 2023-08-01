@@ -17,7 +17,7 @@ Below are something about me, my experience, my education, my achievement, and m
 
 📆 2022.7 - 2022.9  
 💼 Sinopharm - Business Development (Intern)  
-📍 Beijing  
+📍 Beijing, China  
 
 · Independently in charge of the medical gauze procurement project of the Ministry of Health of Cyprus, leading team members to clarify FOB quotations, search and contact manufacturers, informing products' technical parameters, negotiating with manufacturers' quotations, arranging to send samples and arranging manufacturers to participate in bidding.
 
@@ -39,7 +39,7 @@ Below are something about me, my experience, my education, my achievement, and m
 
 📆 2021.7 - 2021.9  
 💼 Career International - Human Resource Consultant (Intern)  
-📍 Nanjing  
+📍 Nanjing, China  
 
 · Independently in charge of the recruitment project of Thoughtworks digital transformation consultant and digital product consultant. A total of 50+ suitable candidates were found for the above positions through various recruitment channels and finally entered the assessment sessions of Thoughtworks.
 
