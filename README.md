@@ -46,3 +46,31 @@ Below are something about me.
 · Track and manage candidates' job-seeking process, communicate and negotiate with candidates on matters related to recruitment, such as arranging written tests, making an appointment for interviews, and making feedback on results to maintain positive communication and interaction with candidates.
 
 · Actively connect with Thoughtworks, regularly report the recruitment situation, and keep abreast of the latest recruitment requirements of Thoughtworks, continuously and flexibly adjust the requirements for ideal candidates to ensure the quality of recruitment.
+## Practicum Experience
+📆 2023.5  
+💼 Data Mining Course Application
+
+· Use Python to model the bank loan behavior, and use data mining techniques to find and analyze the relationship between different population characteristics (education level, personal asset scale, married or not) and bank loan behavior. The specific steps successively include data set selection, data preprocessing, data association analysis, and data clustering analysis. And make an academic defense on the above content, and introduce the detailed handling process to the teachers and the jury.
+
+· Among them, data preprocessing includes missing value and duplicate value processing, cosine similarity calculation, sparse matrix conversion, etc. Data association analysis includes using Apriori and FP-Growth algorithms for association analysis, and discovering association rules between features by setting confidence thresholds; Data clustering analysis includes using the K-means method to classify and cluster related results for visualization.
+
+📆 2023.3  
+💼 MATLAB Machine Learning Course Application
+
+· Use MATLAB to complete the Kaggle machine learning task Porter Delivery Time Estimation by building BP neural network. The specific steps include data preprocessing, feature encoding, feature correlation coefficient calculation, dataset division, creation of BP neural network, neural network training, and simulation test, calculation of mean-variance and other indicators to evaluate the training effect, result visualization, etc.
+
+· Use the Naive Bayesian algorithm to complete the same task, calculate and visualize the performance indexes of both the Naive Bayesian algorithm and BP neural network method to evaluate and compare the two methods.
+
+· Write a course practicum report, detailedly sort out the process of using naive Bayesian algorithm and BP neural network to deal with complex datasets, and summarize the characteristics and advantages of the two methods.
+
+📆 2022.12  
+💼 Hadoop Distributed Cluster Construction
+
+· Familiar with common data business models and applications of enterprises, familiar with big data technology ecosystem, including Sqoop, Flume, Kafka, Hadoop, and understand their specific application scenarios in enterprise distributed architecture.
+
+· Build Hadoop distributed clusters, including installing JDK packages through Linux to configure Java environment, configuring Hadoop-related environment variables, installing Hadoop and configuring core setting files such as core-site.xml and hdfs-site.xml, creating public and private keys to realize SSH secret-free login, initializing Hadoop with system commands, etc.
+
+· Configure the PHP environment, penetrate the internal network through cpolar without a fixed domain name, and establish an encrypted security tunnel between the internal and external networks, so as to publish the built cluster environment on the public network, so that the instructors of the school can check the operation results and evaluate the scores.
+
+· Write the practicum report and sort out the common data distributed architectures, including HDFS architecture, YARN architecture, and MapReduce architecture. Summarize the shortcomings of various tools in some application levels and put forward complementary schemes to be combined with other tools. Summarize the construction process of the Hadoop distributed cluster, etc.
+## Education
