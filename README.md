@@ -77,11 +77,13 @@ Below are something about me.
 📆 2020 - 2024  
 🏫 Nanjing University of Information Science and Technology  
 💼 Bachelor of Data Science  
+
 China's double first-class university, ranked 46th in the USNews ranking of the best universities in China in 2023.
 
 📆 2022.9 - 2023.1  
 🏫 City University of Macau    
 💼 Exchange Student  
+
 Exchange study at Faculty of Data Science, City University of Macau with full scholarship funding from the Education and Youth Development Bureau of Macau Government.
 ## Additional Information
 Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, First Prize of Informatics Olympic League at the Provincial Level.  
