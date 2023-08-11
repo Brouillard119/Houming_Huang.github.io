@@ -74,3 +74,16 @@ Below are something about me.
 
 · Write the practicum report and sort out the common data distributed architectures, including HDFS architecture, YARN architecture, and MapReduce architecture. Summarize the shortcomings of various tools in some application levels and put forward complementary schemes to be combined with other tools. Summarize the construction process of the Hadoop distributed cluster, etc.
 ## Education
+📆 2020 - 2024  
+🏫 Nanjing University of Information Science and Technology  
+💼 Bachelor of Data Science  
+China's double first-class university, ranked 46th in the USNews ranking of the best universities in China in 2023.
+
+📆 2022.9 - 2023.1  
+🏫 City University of Macau    
+💼 Exchange Student  
+Exchange study at Faculty of Data Science, City University of Macau with full scholarship funding from the Education and Youth Development Bureau of Macau Government.
+## Additional Information
+Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, First Prize of Informatics Olympic League at the Provincial Level.  
+
+Language: Mandarin(Native), Cantonese(Fluent), English(Fluent), French(Beginner).
