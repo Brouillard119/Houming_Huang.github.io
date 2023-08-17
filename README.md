@@ -1,4 +1,4 @@
-Hii, very nice to meet you👋. My name is Houming Huang from China. I am currently a Data Science student in college👨‍🎓and a technical support specialist in Meltwater👨‍🔬.  
+Hii, very nice to meet you👋. My name is Houming Huang from China. I am currently an undergrad Data Science student in college👨‍🎓and a technical support specialist in Meltwater👨‍🔬.  
 
 Below are something about me.
 ## Work Experience
