@@ -72,7 +72,14 @@ Below are something about me.
 
 · Configure the PHP environment, penetrate the internal network through cpolar without a fixed domain name, and establish an encrypted security tunnel between the internal and external networks, so as to publish the built cluster environment on the public network, so that the instructors of the school can check the operation results and evaluate the scores.
 
-· Write the practicum report and sort out the common data distributed architectures, including HDFS architecture, YARN architecture, and MapReduce architecture. Summarize the shortcomings of various tools in some application levels and put forward complementary schemes to be combined with other tools. Summarize the construction process of the Hadoop distributed cluster, etc.
+· Write the practicum report and sort out the common data distributed architectures, including HDFS architecture, YARN architecture, and MapReduce architecture. Summarize the shortcomings of various tools in some application levels and put forward complementary schemes to be combined with other tools. Summarize the construction process of the Hadoop distributed cluster, etc.  
+
+📆 2021.3-5  
+💼 PTE Academic Coaching  
+
+· Due to the excellent performance in the PTE Academic exam, some students from my school invited me to help them prepare for the exam. The specific work includes exam introduction, summaries of key points, oral pronunciation correction, material collection, and troubleshooting.  
+
+· I received an invitation from advertiser PAPA EDU to write articles to promote their PTE education products and teach PTE Academic English online. All the articles were released successfully through their review and I had obtained the corresponding commission income.
 ## Education
 📆 2020 - 2024  
 🏫 Nanjing University of Information Science and Technology  
