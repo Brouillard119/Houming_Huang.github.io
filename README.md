@@ -2,7 +2,7 @@ Hii, very nice to meet you👋. My name is Houming Huang from China. I am curren
 
 Below is something about me.
 ## Work Experience
-📆 2023.2 - 2023.8  
+📆 2023.2 - 2023.9  
 💼 Meltwater - Technical Support (Contractor)  
 📍 Remote  
 
