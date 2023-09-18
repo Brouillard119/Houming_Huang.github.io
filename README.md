@@ -54,6 +54,8 @@ Below is something about me.
 
 · Among them, data preprocessing includes missing value and duplicate value processing, cosine similarity calculation, sparse matrix conversion, etc. Data association analysis includes using Apriori and FP-Growth algorithms for association analysis, and discovering association rules between features by setting confidence thresholds; Data clustering analysis includes using the K-means method to classify and cluster related results for visualization.
 
+Project Link: https://github.com/Houming-Huang/BLBMA
+
 📆 2023.3  
 💼 MATLAB Machine Learning Course Application
 
