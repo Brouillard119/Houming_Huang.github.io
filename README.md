@@ -63,6 +63,8 @@ Below is something about me.
 
 · Write a course practicum report, detailedly sort out the process of using naive Bayesian algorithm and BP neural network to deal with complex datasets, and summarize the characteristics and advantages of the two methods.
 
+Project Link: https://github.com/Houming-Huang/PDTE
+
 📆 2022.12  
 💼 Hadoop Distributed Cluster Construction
 
