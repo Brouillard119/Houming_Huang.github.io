@@ -26,7 +26,7 @@ Below is something about me.
 · Responsible for drafting and translating the daily documents of the Group, including drafting strategic cooperation framework agreements, letters of donation of medical materials, letters of meeting with government agencies, translating medical equipment purchase instructions, inspection declaration forms for outbound goods, packing list, etc.
 
 
-📆 2022.1 - 2022.2  
+📆 2022.1  
 💼 Molecular Trading - Derivatives Analyst (Intern)  
 📍 Remote  
 
