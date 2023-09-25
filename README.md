@@ -95,4 +95,6 @@ Exchange study at Faculty of Data Science, City University of Macau with full sc
 ## Additional Information
 Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, First Prize of Informatics Olympic League at the Provincial Level.  
 
+Skill: Academic poster making. [Work](https://github.com/Houming-Huang/ComputerVision/blob/main/poster.jpg)
+
 Language: Mandarin(Native), Cantonese(Fluent), English(Fluent), French(Beginner).
