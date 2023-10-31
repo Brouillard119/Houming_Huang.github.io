@@ -1,6 +1,6 @@
 Hii, very nice to meet you👋. My name is Houming Huang. I am currently an undergrad Data Science student in college👨‍🎓and a technical support specialist in Meltwater👨‍🔬.  
 ## Work Experience
-📆 2023.2 - 2023.10  
+📆 2023.2 - now  
 💼 Meltwater - Technical Support (Contractor)  
 📍 Remote  
 
