@@ -4,7 +4,7 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 💼 Meltwater - Technical Support (Contractor)  
 📍 Remote  
 
-· Monitor the popular words and public opinions of cooperative brands in social media daily, modify the query and retrieval conditions according to the actual situation or customer needs when there is an abnormality, and feedback to the responsible managers of different bands. Write scripts to regularly capture the content of social media accounts designated by the partner brands every week and month, investigate and retrieve missing posts and content from various social media platforms, including Weibo, TikTok, Little Red Book, Facebook, Twitter, Instagram, etc.
+· Monitor the popular words and public opinions of cooperative brands in social media daily, modify the query and retrieval conditions according to the actual situation or customer needs when there is an abnormality, and feedback to the responsible managers of different brands. Write scripts to regularly capture the content of social media accounts designated by the partner brands every week and month, investigate and retrieve missing posts and content from various social media platforms, including Weibo, TikTok, Little Red Book, Facebook, Twitter, Instagram, etc.
 
 · Cooperate with colleagues of the French Data team and German Infra team to optimize the company's internal tools such as Radarly, Silkroad, Lifebuoy, etc. Participate in the Agile development process to achieve the optimization for the above tools. The optimization contents include new features adding, process automation, UI adjustment, parameter modification, fault maintenance, etc. When necessary, write a document in the Company’s Confluence sector describing the optimized content for colleagues in other departments to understand.
 
@@ -75,6 +75,8 @@ Project Link: https://github.com/Houming-Huang/PDTE
 💼 Bachelor of Data Science  
 
 China's double first-class university, ranked 46th in the USNews ranking of the best universities in China in 2023.
+
+Major courses: Engineering Mathematics, Numerical Analysis, Computer Network, Optimization Theory and Algorithm, Digital Signal Processing, Distributed System and Cloud Computing, Machine Learning, Data Mining, Automatic Control, Cyber Security.
 
 📆 2022.9 - 2023.1  
 🏫 City University of Macau    
