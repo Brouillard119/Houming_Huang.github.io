@@ -72,7 +72,7 @@ Project Link: https://github.com/Houming-Huang/PDTE
 ## Education
 📆 2020 - 2024  
 🏫 Nanjing University of Information Science and Technology  
-💼 Bachelor of Data Science  
+💼 Bachelor of Data Science (GPA 3.1/4.0)  
 
 China's double first-class university, ranked 46th in the USNews ranking of the best universities in China in 2023.
 
