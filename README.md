@@ -86,4 +86,4 @@ Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, First Prize of Informa
 
 Skill: Academic poster making. [Work](https://github.com/Houming-Huang/ComputerVision/blob/main/poster.jpg)
 
-Language: Mandarin(Native), Cantonese(Fluent), English(Fluent), French(Beginner).
+Language: Mandarin(Native), Cantonese(Fluent), English(Fluent), German(Beginner, preparing for the Goethe B1).
