@@ -74,15 +74,15 @@ Project Link: https://github.com/Houming-Huang/PDTE
 🏫 Nanjing University of Information Science and Technology  
 💼 Bachelor of Data Science (GPA 3.1/4.0)  
 
-China's double first-class university, ranked 46th in the USNews ranking of the best universities in China in 2023.
+· China's double first-class university, ranked 46th in the USNews ranking of the best universities in China in 2023.
 
-Major courses: Engineering Mathematics, Numerical Analysis, Computer Network, Optimization Theory and Algorithm, Digital Signal Processing, Distributed System and Cloud Computing, Machine Learning, Data Mining, Automatic Control, Cyber Security.
+· Major courses: Engineering Mathematics, Numerical Analysis, Computer Network, Optimization Theory and Algorithm, Digital Signal Processing, Distributed System and Cloud Computing, Machine Learning, Data Mining, Automatic Control, Cyber Security.
 
 📆 2022.9 - 2023.1  
 🏫 City University of Macau    
 💼 Exchange Student  
 
-Exchange study at Faculty of Data Science, City University of Macau with full scholarship funding from the Education and Youth Development Bureau of Macau Government.
+· Exchange study at Faculty of Data Science, City University of Macau with full scholarship funding from the Education and Youth Development Bureau of Macau Government.
 ## Additional Information
 Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, First Prize of Informatics Olympic League at the Provincial Level.  
 
