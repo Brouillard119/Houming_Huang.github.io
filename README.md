@@ -8,7 +8,7 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 
 · Cooperate with colleagues of the French Data team and Infra team to optimize the company's internal tools such as Radarly, Silkroad, Lifebuoy, etc. Participate in the Agile development process to achieve the optimization for the above tools. The optimization contents include new features adding, process automation, UI adjustment, parameter modification, fault maintenance, etc. When necessary, write documents in the company’s Confluence sector describing the optimized content for colleagues in other departments to understand.
 
-· By using the API of the company's internal tools, write scripts to automate daily work, including account creation, data backup, social media account joining the monitoring database, social media account historical data acquisition, research report generation and transmission, and solve technical problems from colleagues around the world on Jira and Zendesk.
+· By using the API of the company's internal tools, write scripts to automate daily work, including account creation, data backup, social media account joining the monitoring database, social media account historical data acquisition, research report generation and transmission, and solve technical problems from colleagues around the globe on Jira and Zendesk.
 
 
 📆 2022.7 - 2022.9  
