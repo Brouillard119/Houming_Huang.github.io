@@ -1,7 +1,7 @@
 Hii, very nice to meet you👋. My name is Houming Huang. I am currently an undergrad Data Science student in college👨‍🎓and a technical support specialist in Meltwater👨‍🔬.  
 ## Work Experience
 📆 2023.2 - now  
-💼 Meltwater - Technical Support (Contractor)  
+💼 Meltwater - Product Engineer (Contractor)  
 📍 Remote  
 
 · Monitor the public opinions of cooperative brands in social media daily, modify the retrieval conditions and clear social listening noise according to the situation or customer needs when there is an abnormality, and feedback to the responsible managers of different brands. Write scripts to regularly capture the content of social media accounts designated by the partner brands every week and month, and investigate and retrieve missing content from various social media platforms.
