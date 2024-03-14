@@ -89,7 +89,7 @@ Project Link: https://github.com/Houming-Huang/PDTE
 
 · Exchange study at Faculty of Data Science, City University of Macau with full scholarship funding from the Education and Youth Development Bureau of Macau Government.
 ## Additional Information
-Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, First Prize of Informatics Olympic League at the Provincial Level.  
+Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, RYA Offshore Sailing 6.01, First Prize of Informatics Olympic League at the Provincial Level. 
 
 Skill: Academic poster making. [Work](https://github.com/Houming-Huang/ComputerVision/blob/main/poster.jpg)
 
