@@ -42,7 +42,7 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 
 · Morphological Feature Extraction Based on Key Price Points: Based on actual stock trading data, extract the morphological characteristics of price fluctuations, use the clustering analysis method to automatically cluster the morphological characteristic data, and calculate the average return rate of each class of stocks with a future holding period of one month based on the clustering results. Then, the top 5 stocks with the highest average class return are labeled as +1 classes, and the remaining stocks are labeled as -1 classes as training samples, which are trained using a support vector machine model. Finally, use the trained SVM model to predict the new stock price morphology feature data to derive a quantitative trading strategy.  
 
-Project Link: https://github.com/Houming-Huang/BLBMA
+Project Link: https://github.com/Houming-Huang/FinDataMining  
 
 📆 2023.5  
 💼 Data Mining Course Application
