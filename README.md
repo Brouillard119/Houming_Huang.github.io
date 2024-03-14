@@ -10,6 +10,7 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 
 · By using the API of the company's internal tools, write scripts to automate daily work, including account creation, data backup, social media account joining the monitoring database, social media account historical data acquisition, research report generation and transmission, and solve technical problems from colleagues around the globe on Jira and Zendesk.
 
+· Host training sessions for newcomers colleagues and clients to teach them how to utilize the company’s technical tools and products. Having organized seven successful training sessions for new-come Indian colleagues, one for French colleagues and two for clients so far.
 
 📆 2022.7 - 2022.9  
 💼 Sinopharm - Business Development (Intern)  
@@ -31,7 +32,7 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 · Track and manage candidates' job-seeking process, communicate and negotiate with candidates on matters related to recruitment, such as arranging written tests, making an appointment for interviews, and making feedback on results to maintain positive communication and interaction with candidates.
 
 · Actively connect with Thoughtworks, regularly report the recruitment situation, and keep abreast of the latest recruitment requirements of Thoughtworks, continuously and flexibly adjust the requirements for ideal candidates to ensure the quality of recruitment.
-## Practicum Experience
+## Academic Experience
 📆 2023.5  
 💼 Data Mining Course Application
 
