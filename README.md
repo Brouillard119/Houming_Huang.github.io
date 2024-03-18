@@ -10,7 +10,7 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 
 · By using the API of the company's internal tools, write scripts to automate daily work, including account creation, data backup, social media account joining the monitoring database, social media account historical data acquisition, research report generation and transmission, and solve technical problems from colleagues around the globe on Jira and Zendesk.
 
-· Host training sessions for newcomers colleagues and clients to teach them to utilize the company’s technical tools and products. Having organized seven successful training sessions for new-come Indian colleagues, one for French colleagues and two for clients so far.
+· Carry out technical operations across geographically located technical and client-service teams. Coordinate diverse stakeholders to provide technical responses for clients. Host training sessions for newcomers colleagues and clients to teach them how to utilize the company’s technical tools and products. Having organized seven successful training sessions for new-come Indian colleagues, one for French colleagues and two for clients so far.  
 
 📆 2022.7 - 2022.9  
 💼 Sinopharm - Business Development (Intern)  
