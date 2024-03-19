@@ -93,4 +93,4 @@ Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, RYA Offshore Sailing 6
 
 Skill: Academic poster making. [Work](https://github.com/Houming-Huang/ComputerVision/blob/main/poster.jpg)
 
-Language: Mandarin(Native), Cantonese(Fluent), English(Fluent), French(Beginner).
+Language: Mandarin(Native), English(Fluent), German(Beginner).
