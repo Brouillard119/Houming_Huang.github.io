@@ -13,7 +13,7 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 · Carry out technical operations across geographically located technical and client-service teams. Coordinate diverse stakeholders to provide technical responses for clients. Host training sessions for newcomers colleagues and clients to teach them how to utilize the company’s technical tools and products.  
 
 📆 2022.7 - 2022.9  
-💼 Sinopharm - Business Development (Intern)  
+💼 Sinopharm - Business Development Specialist (Intern)  
 📍 Beijing, China  
 
 · Independently in charge of the medical gauze procurement project of the Ministry of Health of Cyprus, leading team members to clarify FOB quotations, search and contact manufacturers, informing products' technical parameters, negotiating with manufacturers' quotations, arranging to send samples and arranging manufacturers to participate in bidding.
