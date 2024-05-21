@@ -23,7 +23,7 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 · Responsible for drafting and translating the daily documents of the Group, including drafting strategic cooperation framework agreements, letters of donation of medical materials, letters of meeting with government agencies, translating medical equipment purchase instructions, inspection declaration forms for outbound goods, packing list, etc.
 
 📆 2021.7 - 2021.9  
-💼 Career International - Human Resource Consultant (Intern)  
+💼 Career International - Headhunter (Intern)  
 📍 Nanjing, China  
 
 · Independently in charge of the recruitment project of ThoughtWorks digital transformation consultant and digital product consultant. A total of 50+ suitable candidates were found for the above positions through various recruitment channels and finally entered the assessment sessions of Thoughtworks.
