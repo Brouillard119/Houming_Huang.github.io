@@ -1,16 +1,16 @@
 Hii, very nice to meet you👋. My name is Houming Huang. I am currently an undergrad Data Science student in college👨‍🎓.  
 ## Work Experience
-📆 2023.2 - now  
-💼 Meltwater - Product Engineer (Contractor)  
+📆 2023.2 - 2024.4  
+💼 Meltwater - Product Support Engineer (Contractor)  
 📍 Remote  
 
-· Monitor the public opinions of cooperative brands in social media daily, modify the retrieval conditions and clear social listening noise according to the situation or customer needs when there is an abnormality, and feedback to the responsible managers of different brands. Write scripts to regularly capture the content of social media accounts designated by the partner brands every week and month, and investigate and retrieve missing content from various social media platforms.
+· Monitor the public opinions of cooperative brands in social media daily, and modify the retrieval conditions to clear social listening noise. Write scripts to regularly capture the content of social media accounts designated by the partner brands every week and month, and investigate and retrieve missing content from various social media platforms.
 
-· Optimize the company's internal tools such as Radarly, Silkroad, Lifebuoy, etc. Participate in the Agile development process to achieve the optimization for the above tools. The optimization contents include new features adding, process automation, UI adjustment, parameter modification, fault maintenance, etc. When necessary, write documents in the company’s Confluence sector describing the optimized content for colleagues in other departments to understand.
+· Optimize the company's internal tools. Participate in the Agile development process to achieve the optimization for the tools, including new features adding, process automation, UI adjustment, parameter modification, fault maintenance, etc. When necessary, write documents in the Company’s Confluence sector describing the optimized content for colleagues in other departments to understand.
 
-· By using the API of the company's internal tools, write scripts to automate daily work, including account creation, data backup, social media account joining the monitoring database, social media account historical data acquisition, research report generation and transmission, and solve technical problems from colleagues around the globe on Jira and Zendesk.
+· By using the API of the company's internal tools, write scripts to automate daily work, including account creation, data backup, adding social media accounts to the monitoring pool, social media account historical data acquisition, research report generation and transmission, and solving technical problems from colleagues around the different time zones on Jira and Zendesk.
 
-· Carry out technical operations across geographically located technical and client-service teams. Coordinate diverse stakeholders to provide technical responses for clients. Host training sessions for newcomers colleagues and clients to teach them how to utilize the company’s technical tools and products. Having organized seven successful training sessions for new-come Indian colleagues, one for French colleagues and two for clients so far.  
+· Carry out technical operations across geographically located technical and client-service teams. Coordinate diverse stakeholders to provide technical responses for clients. Host training sessions for newcomers colleagues and clients to teach them how to utilize the company’s technical tools and products.  
 
 📆 2022.7 - 2022.9  
 💼 Sinopharm - Business Development (Intern)  
@@ -21,7 +21,6 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 · Participate in the company's large-scale strategic projects, including doing industry research on the global rare disease detection market, and writing business plans for the group's biomedical industrial park in Beijing to attract investment.
 
 · Responsible for drafting and translating the daily documents of the Group, including drafting strategic cooperation framework agreements, letters of donation of medical materials, letters of meeting with government agencies, translating medical equipment purchase instructions, inspection declaration forms for outbound goods, packing list, etc.
-
 
 📆 2021.7 - 2021.9  
 💼 Career International - Human Resource Consultant (Intern)  
