@@ -57,16 +57,16 @@ Hii, very nice to meet you👋. My name is Houming Huang. I am currently an unde
 Project Link: https://github.com/Houming-Huang/FinDataMining  
 
 📆 2023.5  
-💼 Data Mining Course Application
+💼 Data Mining Course Practicum
 
-· Use Python to model the bank loan behaviour, and use data mining techniques to find and analyze the relationship between different population characteristics (education level, personal asset scale, married or not) and bank loan behaviour. The specific steps successively include data set selection, data preprocessing, data association analysis, and data clustering analysis. And make an academic defence on the above content, and introduce the detailed handling process to the teachers.
+· Use Python to model the bank loan behaviour, and use data mining techniques to find and analyze the relationship between different population characteristics (education level, personal asset scale, married or not) and bank loan behaviour. The specific steps successively include data set selection, data preprocessing, data association analysis, and data clustering analysis. Make an academic defence on the above content, and introduce the detailed handling process to the teachers.
 
 · Among them, data preprocessing includes missing value and duplicate value processing, cosine similarity calculation, sparse matrix conversion, etc. Data association analysis includes using Apriori and FP-Growth algorithms for association analysis, and discovering association rules between features by setting confidence thresholds; Data clustering analysis includes using the K-means method to classify and cluster related results for visualization.
 
 Project Link: https://github.com/Houming-Huang/BLBMA
 
 📆 2023.3  
-💼 MATLAB Machine Learning Course Application
+💼 MATLAB Machine Learning Course Practicum
 
 · Use MATLAB to complete the Kaggle machine learning task Porter Delivery Time Estimation by building a BP neural network. The specific steps include data preprocessing, feature encoding, feature correlation coefficient calculation, dataset division, creation of BP neural network, neural network training, and simulation test, calculation of mean-variance and other indicators to evaluate the training effect, result visualization, etc.
 
