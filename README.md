@@ -1,4 +1,4 @@
-Hii, very nice to meet you👋. My name is Houming Huang. I am currently an undergrad Data Science student in college👨‍🎓.  
+Hii, very nice to meet you👋. My name is Houming Huang. I am currently an undergrad Data Science student in college👨‍🎓.
 ## Work Experience
 📆 2023.2 - 2024.4  
 💼 Meltwater - Product Support Engineer (Contractor)  
