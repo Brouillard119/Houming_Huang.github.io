@@ -1,4 +1,4 @@
-Hii, very nice to meet you👋. My name is Houming Huang. I am currently an undergrad Data Science student in college👨‍🎓.
+Hi, very nice to meet you👋. My name is Houming Huang. I am currently an undergrad Data Science student in college👨‍🎓.
 ## Work Experience
 📆 2023.2 - 2024.4  
 💼 Meltwater - Product Support Engineer (Contractor)  
@@ -94,4 +94,4 @@ Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, RYA Offshore Sailing 6
 
 Skill: Academic poster making. [Work](https://github.com/Houming-Huang/ComputerVision/blob/main/poster.jpg)
 
-Language: Mandarin(Native), Cantonese(Native), English(Fluent), Portuguese(Beginner).
+Language: Mandarin(Native), Cantonese(Native), English(Fluent), Russian(Beginner).
