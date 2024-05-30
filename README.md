@@ -39,11 +39,13 @@ Hi, very nice to meet you👋. My name is Houming Huang. I am currently an under
 
 · Elaborate the theoretical knowledge and technical introduction of convolutional neural network algorithm models and other related topics. Give a brief explanation of the concept of convolutional neural networks, common threshold functions used in model applications, learning and training algorithms, image convolution principles, and relevant performance evaluation indicators for models.
 
-· Build the machine learning random forest and SVM algorithm models for road license plate recognition detection. The steps include image data preprocessing, model building, setting model parameters, completing the training of the model, test sets testing, and outputting the corresponding performance evaluation indexes.
+· Build the machine learning Random Forest and SVM models for car license plate recognition detection using Scikit-Learn. The steps include image data preprocessing, model building, setting model parameters, completing the training of the model, test sets testing, and outputting the corresponding performance evaluation indexes.
 
-· Complete the construction of the convolutional neural network license plate recognition model, complete the iterative training of the model, and test the model generated after training on test datasets, generate visual test results and analyze them. Meanwhile, make innovative improvements to address the limitations and deficiencies of the current convolutional neural network model. Improve the performance of the model and pursue better model recognition and detection results. For example, using the Softmax function to probabilistically generate outputs and setting threshold conditions to make the model's recognition criteria clear.
+· Complete the construction of the convolutional neural network car license plate recognition model using Pytorch, complete the iterative training of the model, and test the model generated after training on test datasets, generate visual test results and analyze them. Meanwhile, make innovative improvements to address the limitations and deficiencies of the current convolutional neural network model. Improve the performance of the model and pursue better model recognition and detection results. For example, using the Softmax function to probabilistically generate outputs and setting threshold conditions to make the model's recognition criteria clear.
 
-· Make brief summaries of the thesis's research work and findings obtained. Further outlook on the subsequent related research work on convolutional neural network models, such as optimization, iteration, etc.
+· Make brief summaries of the thesis's research work and findings obtained. Make further outlook on the related research work on convolutional neural network models, such as optimization, iteration, etc.
+
+Project Link: https://github.com/Houming-Huang/Graduation
 
 📆 2023.9-2024.1  
 💼 Financial Data Mining  
@@ -82,7 +84,7 @@ Project Link: https://github.com/Houming-Huang/PDTE
 
 · China's double first-class university, ranked 46th in the USNews ranking of the best universities in China in 2023.
 
-· Major courses: Engineering Mathematics, Numerical Analysis, Computer Network, Optimization Theory and Algorithm, Digital Signal Processing, Distributed System and Cloud Computing, Machine Learning, Data Mining, Automatic Control, Cyber Security.
+· Major courses: Engineering Mathematics, Numerical Analysis, Computer Network, Optimization Theory and Algorithm, Digital Signal Processing, Machine Learning, Data Mining, Automatic Control, Cyber Security.
 
 📆 2022.9 - 2023.1  
 🏫 City University of Macau    
