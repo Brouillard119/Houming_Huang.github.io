@@ -16,7 +16,7 @@ Hi, very nice to meet you👋. My name is Houming Huang. I am currently an under
 💼 Sinopharm - Business Development Specialist (Intern)  
 📍 Beijing, China  
 
-· Independently in charge of the medical gauze procurement project of the Ministry of Health of Cyprus, leading team members to clarify FOB quotations, search and contact manufacturers, informing products' technical parameters, negotiating with manufacturers' quotations, arranging to send samples and arranging manufacturers to participate in bidding.
+· Take part in the medical gauze procurement project of the Ministry of Health of Cyprus, leading team members to clarify FOB quotations, search and contact manufacturers, inform products' technical parameters, negotiate with manufacturers' quotations, arrange to send samples and arrange manufacturers to participate in bidding.
 
 · Participate in the company's large-scale strategic projects, including doing industry research on the global rare disease detection market, and writing business plans for the group's biomedical industrial park in Beijing to attract investment.
 
