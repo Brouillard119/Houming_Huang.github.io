@@ -32,7 +32,7 @@ Hi, very nice to meet you👋. My name is Houming Huang. I am currently an under
 
 · Actively connect with Thoughtworks, regularly report the recruitment situation, and keep abreast of the latest recruitment requirements of Thoughtworks, continuously and flexibly adjust the requirements for ideal candidates to ensure the quality of recruitment.
 ## Projects
-📆 2024.3-now  
+📆 2024.3 - 2024.6  
 💼 Graduation Thesis  
 
 · Briefly describe the problems existing in the field of road traffic management in China from the past to the present day and the significance of applying intelligent traffic management technology and management methods. Introduce the relevant basic theories and technologies and combs through its development history. Explain the main research content of this thesis, the experimental work, and the arrangement of each chapter.
@@ -47,7 +47,7 @@ Hi, very nice to meet you👋. My name is Houming Huang. I am currently an under
 
 Project Link: https://github.com/Houming-Huang/Graduation
 
-📆 2023.9-2024.1  
+📆 2023.9 - 2024.1  
 💼 Financial Data Mining  
 
 · Investment Analysis of Listed Companies: Obtain data from the Shanghai and Shenzhen stock markets, select indicators such as overall scale model, investment efficiency, and value growth, to use the principal component analysis model to extract comprehensive principal components and conduct ranking. Select the top 20 or 40 stocks to construct an investment portfolio and calculate the return for a certain holding period. Meanwhile, compare the return with the Shanghai and Shenzhen 300 Index for the same period and conduct a quantitative investment analysis.  
