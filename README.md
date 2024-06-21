@@ -91,9 +91,17 @@ Project Link: https://github.com/Houming-Huang/PDTE
 💼 Exchange Student  
 
 · Exchange study at the Faculty of Data Science, City University of Macau with full scholarship funding from the Education and Youth Development Bureau of Macau Government.
+
+· Major courses: Numerical Analysis, Distributed Systems, Web Programming Design, Portuguese.
+## Voluntary Service
+Campus Library Volunteer: Volunteer at the school library occasionally during free time to help the librarian arrange books, organise book activities, recommend books and write testimonials on the library's public website, and donate books.
+
+Theatre Interpreter Volunteer: Volunteer as an interpreter at the Nanjing Poly Grand Theatre when foreign troupes are touring the theatre, providing interpretation services for the visiting foreign troupes, conveying their stage set-up needs and personnel transfer needs, and acting as an intermediary bridge between the foreign troupes' members and the Chinese staff of the theatre.
+
+Volunteer English Tutor: Because of the outstanding results of TOEFL and PTE, students often come to me to ask questions about TOEFL and PTE exams. I’ll answer questions and solve problems for students when they need it, as well as provide some of them with specific test advice and test preparation guidance to help them achieve the desired results.
 ## Additional Information
 Certificates & Awards: MATLAB Onramp, IBM Agile Explorer, RYA Offshore Sailing 6.01, First Prize of Informatics Olympic League at the Provincial Level. 
 
 Skill: Academic poster making. [Work](https://github.com/Houming-Huang/ComputerVision/blob/main/poster.jpg)
 
-Language: Mandarin(Native), Cantonese(Native), English(Fluent), Russian(Beginner).
+Language: Mandarin(Native), Cantonese(Native), English(Fluent), Portuguese(Beginner).
