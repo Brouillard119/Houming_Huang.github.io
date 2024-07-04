@@ -92,7 +92,7 @@ Project Link: https://github.com/Houming-Huang/PDTE
 
 · Exchange study at the Faculty of Data Science, City University of Macau with full scholarship funding from the Education and Youth Development Bureau of Macau Government.
 
-· Major courses: Numerical Analysis, Distributed Systems, Web Programming Design, Portuguese.
+· Major courses: Linux Basics, Distributed Systems, Web Programming Design, Portuguese.
 ## Voluntary Service
 Campus Library Volunteer: Volunteer at the school library occasionally during free time to help the librarian arrange books, organise book activities, recommend books and write testimonials on the library's public website, and donate books.
 
