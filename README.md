@@ -12,16 +12,6 @@ Hi, very nice to meet you👋. My name is Houming Huang. Below is something abou
 
 · Carry out technical operations across geographically located technical and client-service teams. Coordinate diverse stakeholders to provide technical responses for clients. Host training sessions for newcomers colleagues and clients to teach them how to utilize the company’s technical tools and products.  
 
-📆 2022.7 - 2022.9  
-💼 Sinopharm - Business Development Specialist (Intern)  
-📍 Beijing, China  
-
-· Take part in the medical gauze procurement project of the Ministry of Health of Cyprus, leading team members to clarify FOB quotations, search and contact manufacturers, inform products' technical parameters, negotiate with manufacturers' quotations, arrange to send samples and arrange manufacturers to participate in bidding.
-
-· Participate in the company's large-scale strategic projects, including doing industry research on the global rare disease detection market, and writing business plans for the group's biomedical industrial park in Beijing to attract investment.
-
-· Responsible for drafting and translating the daily documents of the Group, including drafting strategic cooperation framework agreements, letters of donation of medical materials, letters of meeting with government agencies, translating medical equipment purchase instructions, inspection declaration forms for outbound goods, packing list, etc.
-
 📆 2021.7 - 2021.9  
 💼 Career International - Headhunter (Intern)  
 📍 Nanjing, China  
